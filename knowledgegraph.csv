@@ -1,0 +1,81 @@
+Subject,Predicate,Object
+Theme 1,hasTitle,Introduction to GenAI
+Theme 1,hasLearningHours,3 hours
+Theme 1,aimsTo,Explain and define GenAI technology
+Theme 1,aimsTo,Understand  in brief  how these technologies work
+Theme 1,aimsTo,Recognise different GenAI tools and platforms
+Theme 1,aimsTo,Understand the implications for higher education
+Theme 1,hasLearningOutcome,LO1: Recognise what is meant by the terminology used around GenAI  with a particular focus on its use within higher education
+Theme 1,hasLearningActivity,Learning Activity 1: Acquisition (self-study)
+Theme 1,hasLearningActivity,Learning Activity 2: Practice
+Theme 1,hasLearningActivity,Learning Activity 3: Acquisition (supplementary resources)
+Theme 1,hasSynchronousSession,No synchronous session this week
+Theme 2,hasTitle,GenAI tools: capabilities and limitations
+Theme 2,hasLearningHours,4 hours
+Theme 2,aimsTo,Explore the capabilities of GenAI tools
+Theme 2,aimsTo,Identify the limitations and risks of using these tools in teaching and learning
+Theme 2,aimsTo,Consider strategies to overcome risks when using GenAI in teaching and learning
+Theme 2,hasLearningOutcome,LO1: Recognise what is meant by the terminology used around GenAI  with a particular focus on its use within higher education
+Theme 2,hasLearningActivity,Learning Activity 1: Practice
+Theme 2,hasLearningActivity,Learning Activity 2: Investigation
+Theme 2,hasLearningActivity,Learning Activity 3: Discussion
+Theme 2,hasLearningActivity,Learning Activity 4: Acquisition (self-study)
+Theme 2,hasLearningActivity,Learning Activity 5: Acquisition (supplementary resources)
+Theme 2,hasSynchronousSession,Wednesday 4th June (12:00–13:00)
+Theme 2,hasTriadActivity,First triad meeting to discuss potential  benefits  and risks of using GenAI in discipline
+Theme 2,triadGoal,Identify one critical need or opportunity related to embedding GenAI in teaching practice
+Theme 3,hasTitle,The Challenges of using GenAI for teaching  learning and assessment
+Theme 3,hasLearningHours,4 hours
+Theme 3,aimsTo,Explore the challenges of GenAI tools when using them in teaching  learning and assessment
+Theme 3,aimsTo,Identify academic staff and student perspectives regarding these challenges
+Theme 3,aimsTo,Discuss different approaches on whether to incorporate GenAI in assessment design
+Theme 3,hasLearningOutcome,LO2: Evaluate the use of GenAI in teaching  learning and assessment with a focus on 'what  why and how'
+Theme 3,hasLearningOutcome,LO3: Explore and reflect on pedagogical practices within the disciplines which incorporate the use of GenAI
+Theme 3,hasLearningActivity,Learning Activity 1: Acquisition (self-study) — Note reflections and submit to course facilitators
+Theme 3,hasLearningActivity,Learning Activity 2: Discussion
+Theme 3,hasLearningActivity,Learning Activity 3: Acquisition (supplementary resources)
+Theme 3,hasSynchronousSession,11th June (12:00–13:00)
+Theme 3,requiresPreSessionCompletion,Learning Activities 1 and 2 to be completed before synchronous session
+Theme 4,hasTitle,Exploring the opportunities of GenAI for teaching and learning
+Theme 4,hasLearningHours,4 hours
+Theme 4,aimsTo,Explore the opportunities to embed GenAI tools in teaching  learning and assessment
+Theme 4,aimsTo,Identify academic staff and student roles regarding these opportunities
+Theme 4,aimsTo,Analyse the PAIR Framework for using GenAI in teaching  learning and assessment
+Theme 4,aimsTo,Analyse the Traffic Light model for using GenAI in teaching  learning and assessment
+Theme 4,hasLearningOutcome,LO2: Evaluate the use of GenAI in teaching  learning and assessment with a focus on 'what  why and how'
+Theme 4,hasLearningOutcome,LO3: Explore and reflect on pedagogical practices within the disciplines which incorporate the use of GenAI
+Theme 4,hasLearningActivity,Learning Activity 1: Production
+Theme 4,hasLearningActivity,Learning Activity 2: Acquisition (self-study)
+Theme 4,hasLearningActivity,Learning Activity 3: Practice
+Theme 4,hasLearningActivity,Learning Activity 4: Acquisition (supplementary resources)
+Theme 4,hasSynchronousSession,18th June (12:00–13:00)
+Theme 4,hasTriadActivity,Second triad meeting to share draft session plan for embedding GenAI in teaching practice
+Theme 4,triadGoal,Offer and receive constructive peer feedback to refine session plan
+Theme 4,requiresPreSessionCompletion,Learning Activity 1 to be completed before synchronous session
+Theme 5,hasTitle,Examples from the Disciplines
+Theme 5,hasLearningHours,3 hours
+Theme 5,aimsTo,Recognise different approaches and explorative practices using GenAI within the disciplines
+Theme 5,aimsTo,Define a personal approach to embedding GenAI within your own practice
+Theme 5,hasLearningOutcome,LO3: Explore and reflect on pedagogical practices within the disciplines which incorporate the use of GenAI
+Theme 5,hasLearningActivity,Learning Activity 1: Acquisition (self-study of GenAI use cases)
+Theme 5,hasLearningActivity,Learning Activity 2: Acquisition (supplementary resources)
+Theme 5,hasSynchronousSession,No synchronous session this week
+Theme 5,hasTriadActivity,Refine and finalise session plan
+Theme 5,hasTriadActivity,Final triad meeting to share session plan and offer/receive peer feedback
+Theme 6,hasTitle,Designing your session plan and peer review
+Theme 6,hasLearningHours,6 hours
+Theme 6,aimsTo,Prepare final planning session template and share it in a 3–5 minute presentation
+Theme 6,hasLearningOutcome,LO4: Design and embed GenAI within your teaching  learning and assessment practices
+Theme 6,hasLearningActivity,Learning Activity 1: Prepare a 3–5 minute presentation on your session plan
+Theme 6,hasLearningActivity,Learning Activity 2: Share your 3–5 minute presentation with the full class at the synchronous session
+Theme 6,hasLearningActivity,Learning Activity 3: Upload your final session plan and your Triad minutes to the submission area
+Theme 6,hasSynchronousSession,2nd July (11:00–12:00 or 12:00–13:00)
+Theme 6,hasTriadActivity,Meet Triad to receive and offer feedback on draft session plan
+Theme 6,triadGoal,Refine and enhance final version of session plan before presentation
+Theme 6,structureNote,Theme has two parts: preparation and presentation
+Acquisition,hasDescription,"""When you listen to a facilitator , watch a video  or read from an online resource or book. Through engaging with these materials you acquire knowledge."""
+Investigation,hasDescription,"""When you take an active and exploratory approach to learning through searching for and evaluating new information and ideas. By analysing, critiquing and comparing resources,  ideas and data,  you develop and further refine your knowledge and understanding of the concepts and ideas being taught."""
+Practice,hasDescription,"""When you apply knowledge in context through actions e.g. implementing, generating,  or applying a concept or skill. Adapting actions according to the task,  and in response to feedback,  leads to enhancement of practice."""
+Discussion,hasDescription,"""When you articulate and exchange ideas,  ask or respond to questions,  or challenge arguments (from your peers or facilitator). This enables you to develop a more thorough conceptual understanding of the topics at hand."""
+Collaboration,hasDescription,"""When you work with peers in small groups to achieve a common goal,  for example the production of a shared output. Collaboration involves elements of discussion,  practice and production and enables you to collaboratively and actively build knowledge with your peers."""
+Production,hasDescription,"""When you produce something (e.g. an artefact, a plan,  a video or an infographic) to demonstrate what and how you have learned. This type of learning activity can be performed individually (distinguishing it from collaboration)."""
