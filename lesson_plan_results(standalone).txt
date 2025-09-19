@@ -1,0 +1,81 @@
+### Pedagogical Method Chosen
+**Project-Based Learning (PBL)**
+
+**Justification**:
+Project-Based Learning (PBL) is ideal for exploring the use cases of GenAI in physiotherapy because it encourages learners to investigate real-world applications, collaborate on solutions, and develop critical thinking through hands-on, problem-centered projects.
+
+### Lesson Plan: Exploring Use Cases of GenAI in Physiotherapy
+**Grade Level/Target Audience**: High school or undergraduate students in health science, technology, or interdisciplinary fields.
+**Duration**: 4–6 weeks (flexible depending on class schedule).
+
+----
+
+#### **Learning Objectives**
+By the end of the project, learners will:
+1. Identify and explain at least 5 distinct use cases of GenAI in physiotherapy.
+2. Analyze the benefits and challenges of implementing GenAI in clinical settings.
+3. Design a hypothetical solution or case study demonstrating GenAI’s role in improving physiotherapy practices.
+
+----
+
+#### **Materials Needed**
+- Access to academic databases (e.g., PubMed, Google Scholar) and AI tools (e.g., chatbots, generative models).
+- Presentation software (PowerPoint, Canva, Prezi).
+- Guest speaker(s): A physiotherapist or AI developer familiar with healthcare applications.
+- Rubrics for assessment.
+
+----
+
+#### **Lesson Structure**
+
+##### **Week 1: Introduction & Project Kickoff**
+- **Day 1**: Introduce GenAI concepts (e.g., image processing, text-to-image generation, predictive analytics).
+- **Day 2**: Overview of physiotherapy workflows (patient assessment, rehabilitation plans, documentation).
+- **Day 3**: Define the project goal and form small groups (3–4 students per group). Each group selects a focus area (e.g., patient communication, exercise personalization, data analysis, virtual therapy assistants).
+- **Day 4**: Assign roles (researcher, presenter, designer, ethicist).
+
+##### **Weeks 2–3: Research Phase**
+- Groups conduct independent research on their chosen GenAI use case in physiotherapy.
+- Tasks:
+  - Find existing examples of GenAI in their topic (e.g., AI-generated exercise videos, chatbots for patient follow-ups).
+  - Investigate challenges (privacy concerns, data quality, AI outputs, cost barriers).
+  - Interview a professional (optional) via email or video call.
+
+##### **Week 4: Prototype Development**
+- Groups create a **case study or prototype** (e.g., a mock-up of an AI-powered physiotherapy app, a script for a virtual assistant, or a report analyzing AI-driven diagnostics).
+- Include visuals, explanations, and ethical considerations.
+
+##### **Week 5: Peer Review & Refinement**
+- Present drafts to peers for feedback.
+- Revise projects based on input.
+
+##### **Week 6: Final Presentations & Reflection**
+- Groups present their findings and prototypes to the class.
+- Host a Q&A session with guests (if applicable).
+- Individual reflection: Students write a short essay on how GenAI could transform physiotherapy and their role in its future.
+
+----
+
+#### **Assessment Criteria**
+| Category         | Description                                                    | Weight (%) |
+|------------------|----------------------------------------------------------------|-----------|
+| Research Depth   | Accuracy, breadth, and relevance of information gathered.      | 30%       |
+| Creativity       | Originality of the case study or prototype.                    | 25%       |
+| Presentation Quality | Clarity, organization, and engagement during the presentation. | 20%    |
+| Teamwork         | Contribution to group tasks and collaboration.                 | 15%       |
+| Reflection Essay | Insightfulness and critical thinking in the final reflection.  | 10%       |
+
+----
+
+#### **Outcomes**
+- Learners produce tangible projects (presentations, case studies, or prototypes) showcasing GenAI’s potential in physiotherapy.
+- Enhanced understanding of interdisciplinary applications of AI in healthcare.
+- Critical awareness of ethical, technical, and practical challenges in adopting GenAI.
+
+----
+
+#### **Extensions/Adaptations**
+- For advanced learners: Explore AI ethics in healthcare or compare GenAI with traditional methods.
+- For younger students: Simplify the project to creating a poster or storyboard instead of a full case study.
+
+This PBL approach ensures active, collaborative, and meaningful learning while addressing the complexities of GenAI in physiotherapy. 🧠🤖

@@ -1,0 +1,20 @@
+prompt_template=f"""
+<instructions>
+Using the context provided in the next section and the query provided at the end perform the following tasks:
+1. Choose one pedagogical method from the following : didactic, project based learning, inquiry based learning or design thinking.
+2. State your choice, Justify it in one sentence.
+3. Create a lesson plan to teach the query to a learner using the chosen pedagogical method.
+</instructions>
+
+<context>
+Content:
+{retrieved_knowledge}
+Theme info:
+{themes}
+{descs}
+</context>
+
+<query>
+{query}
+</query>
+"""
